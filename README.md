@@ -1,13 +1,10 @@
 # The documentation hub of MechatronicBeing. 
 Study, understand, design, build, develop, work, repair and live with Mechatronic Beings.  
-
+[Return to the homepage project](https://mechatronicbeing.github.io/)  
 
 ## **Documentation**
 - [English](https://mechatronicbeing.github.io/docs-en/)
 - [Française](https://mechatronicbeing.github.io/docs-fr/)
-
-
-[Return to the homepage project](https://mechatronicbeing.github.io/)  
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
