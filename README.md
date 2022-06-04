@@ -6,6 +6,9 @@ Study, understand, design, build, develop, work, repair and live with Mechatroni
 - [English](https://mechatronicbeing.github.io/docs-en/)
 - [Française](https://mechatronicbeing.github.io/docs-fr/)
 
+
+[Return to the homepage project](https://mechatronicbeing.github.io/)  
+
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
 - **Other content, data and media** use "public domain" or similar licenses, among :
